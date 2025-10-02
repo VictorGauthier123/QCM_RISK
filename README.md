@@ -52,8 +52,8 @@ https://ihuican.org/testrisquecardiometabolique/
 1.  **Clone the project**
 
 ``` bash
-git clone https://github.com/your-profile/qcm-risk-react.git
-cd qcm-app
+git clone https://github.com/VictorGauthier123/QCM_RISK.git
+cd qcm_risk
 ```
 
 2.  **Install dependencies**
