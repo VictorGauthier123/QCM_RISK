@@ -12,6 +12,12 @@ The test is deployed and integrated into a WordPress page of **IHU
 ICAN**:\
 https://ihuican.org/testrisquecardiometabolique/
 
+<img width="1565" height="795" alt="image" src="https://github.com/user-attachments/assets/dbd6967a-ff1f-49d3-b7d1-4b1c6d013960" />
+
+<img width="1802" height="829" alt="image" src="https://github.com/user-attachments/assets/5856a90b-1324-4eb1-b71f-bf9be2e08e7f" />
+
+
+
 ------------------------------------------------------------------------
 
 ## Features
